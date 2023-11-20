@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import Table from './table';
+import Table from './Table';
 import Form from './Form'
 
 function LinkContainer(){
